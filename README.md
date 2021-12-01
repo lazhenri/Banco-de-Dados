@@ -1,6 +1,6 @@
 # Banco-de-Dados
 
-são conjuntos de arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas. São coleções organizadas de dados que se relacionam de forma a criar algum sentido (informação) e dar mais eficiência durante uma pesquisa ou estudo científico.[2][3][4] São de vital importância para empresas e, há mais de duas décadas, se tornaram a principal peça dos sistemas de informação e segurança. Normalmente existem por vários anos sem alterações em sua estrutura sistemática.
+são conjuntos de arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas. São coleções organizadas de dados que se relacionam de forma a criar algum sentido (informação) e dar mais eficiência durante uma pesquisa ou estudo científico. São de vital importância para empresas e, há mais de duas décadas, se tornaram a principal peça dos sistemas de informação e segurança. Normalmente existem por vários anos sem alterações em sua estrutura sistemática.
 
 Existem vários Modelos de Base de Dados: Modelo Plano (ou tabular), Modelo em Rede, Modelo Hierárquico, Modelo Relacional, Orientado a objetos e Objeto-Relacional.
 
